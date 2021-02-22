@@ -1,5 +1,5 @@
 import { useEffect, useRef } from "react"
-import { keys } from "@material-ui/core/styles/createBreakpoints"
+import { breakpointKeys } from "@material-ui/core/styles/createBreakpoints"
 import { useScreen } from "./useScreen"
 import { useLayoutCtx } from "../contexts"
 
